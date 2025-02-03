@@ -4,11 +4,11 @@ Welcome to the official GitHub organization of [Nymeria](https://nymeria.io), an
 
 ## About Us
 
-At Nymeria, we provide programmatic access to over 811 million unique person and company profiles, each containing rich data such as contact details. 
+We provide programmatic access to people and company data.
 
 Our platform offers:
 
-- **Search**: Easily find email addresses, phone numbers, and social media links for individuals on platforms like LinkedIn, Twitter, Facebook, and GitHub.
+- **Search**: Easily find email addresses, phone numbers, and social media links for individuals on platforms like LinkedIn and GitHub.
 - **Enrich**: Enhance your existing data with new or updated details.
 
 ## Contact Us
